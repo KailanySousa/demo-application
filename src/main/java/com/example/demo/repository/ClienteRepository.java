@@ -1,6 +1,6 @@
-package com.example.demo.repositorys;
+package com.example.demo.repository;
 
-import com.example.demo.models.Cliente;
+import com.example.demo.model.Cliente;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

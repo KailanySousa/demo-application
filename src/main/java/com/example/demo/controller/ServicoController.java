@@ -1,7 +1,7 @@
-package com.example.demo.controllers;
+package com.example.demo.controller;
 
-import com.example.demo.models.Servico;
-import com.example.demo.repositorys.ServicoRepository;
+import com.example.demo.model.Servico;
+import com.example.demo.repository.ServicoRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
